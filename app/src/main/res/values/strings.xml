@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DiceRollingApp</string>
+    <string name="gamewelcome">Welcome to the game. Your goal is to beat the game random number by rolling the visual dice.</string>
+    <string name="btnRoll">Roll The Dice</string>
+    <string name="quit">QUIT</string>
+    <string name="playButton">play Game</string>
+    <string name="playerName">playerName</string>
+    <string name="Title">Dice Rolling Game</string>
+</resources>
